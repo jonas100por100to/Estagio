@@ -1,6 +1,7 @@
 # Estagio
 para compilar o programa:
-deve-se digitar a quantidade de alunos a ser registrada;
+deve-se executar o programa "SistemaCurso" para iniciar;
+em seguida deve-se digitar a quantidade de alunos a ser registrada;
 em seguida digitar nome e sobrenome de cada aluno;
 em seguida deve-se digitar a lotação maxima de cada sala (sala1 e sala2);
 após, o programa ira separar os alunos por ordem de inscrição em suas respectivas salas e áreas de café;
